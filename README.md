@@ -24,7 +24,8 @@ Fecha entrega: 16 de noviembre del 2023
 ### Imágenes de la pruebas de las rutas de la API.
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img1.png?raw=true" alt="Imagen 1"/><br>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img2.png?raw=true" alt="Imagen 2"/><br>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img3.png?raw=true" alt="Imagen 3"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img1.png?raw=true" alt="Imagen 1"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img4.png?raw=true" alt="Imagen 4"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img2.png?raw=true" alt="Imagen 2"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img3.png?raw=true" alt="Imagen 3"/><br>
 </div>
