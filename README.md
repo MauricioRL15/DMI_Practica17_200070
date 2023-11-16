@@ -12,9 +12,9 @@
 Materia: Desarrollo Móvil Integral. <br><br>
 Alumno: Mauricio Ramírez López <br><br>
 Matrícula: 200070 <br><br>
-Práctica 17: Implementación de las rutas y middlewares para el jugador. <br><br>
+Práctica 17: Implementación de la búsqueda e inserción de los datos de los jugadores. <br><br>
 Descripción: 
-Creamos un código donde hicimos un conjunto de funciones para manejar operaciones relacionadas con jugadores en una nuestro videojuego. Cada función corresponde a una operación específica que puede llevarse a cabo sobre los datos de un jugador en el sistema. Cada función toma dos parámetros (rq y rs), que representan la solicitud (request) y la respuesta (response) en un entorno de servidor. Las funciones registran mensajes descriptivos en la consola sobre la acción que se está llevando a cabo y responden con un mensaje indicando la acción realizada. Todo forma parte de un API que gestiona jugadores, respondiendo a diferentes tipos de solicitudes como creación, búsqueda, actualización, cambio de foto de perfil y eliminación de jugadores.
+Este código implementa un controlador para la creación de un jugador en una aplicación utilizando JavaScript y el framework Node.js. En particular, hace uso de un modelo llamado "Player" importado desde el archivo "../models/Player.js". La función createPlayer toma datos del cuerpo de la solicitud (req.body), como el nombre, correo electrónico, apodo y fecha de nacimiento del jugador. Luego, intenta crear un nuevo jugador utilizando el método create del modelo Player. Dependiendo del resultado de la creación, responde con un mensaje de éxito o un mensaje de error, utilizando códigos de estado HTTP correspondientes (200 para éxito, 400 para error de cliente, 500 para error interno del servidor).
 <br><br>
 Fecha entrega: 16 de noviembre del 2023
 </div>
@@ -24,7 +24,8 @@ Fecha entrega: 16 de noviembre del 2023
 ### Imágenes de la pruebas de las rutas de la API.
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img1.png?raw=true" alt="Imagen 1"/><br>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img2.png?raw=true" alt="Imagen 2"/><br>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/250a9267731251d55a986b8e8ecd1068a0626229/P16_img3.png?raw=true" alt="Imagen 3"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img1.png?raw=true" alt="Imagen 1"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img4.png?raw=true" alt="Imagen 4"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img2.png?raw=true" alt="Imagen 2"/><br>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/dc112f00463d74a8ca707b1e1b0c85484065d7fc/P17_img3.png?raw=true" alt="Imagen 3"/><br>
 </div>
